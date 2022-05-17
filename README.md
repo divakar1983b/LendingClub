@@ -28,10 +28,12 @@ All the loans processed fall into the following category.
 - Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
 - Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
 
-
-
 ## FINDINGS
-- Conclusion 1 from the analysis
+- Overall Defaulter %
+
+
+![Book logo](/loanstatus.png)
+
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
