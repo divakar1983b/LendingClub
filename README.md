@@ -34,8 +34,13 @@ All the loans processed fall into the following category.
   * Debit consolidation loan constitutes major volume of loan and as well as major % defaulters (>49%)
 ![Book logo](/overallcoff.PNG)
 
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
+- Loan Duration
+  * Defaulters % in 60 month loan seems to be 300 times more than 36 month loan
+![Book logo](/loandur.PNG)
+
+- Loan Purpose
+ * Defaulters % in 60 month loan seems to be 300 times more than 36 month loan
+![Book logo](/loandur.PNG)
 - Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
