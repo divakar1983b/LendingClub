@@ -30,7 +30,9 @@ All the loans processed fall into the following category.
 
 ## FINDINGS
 - Overall Defaulter %
-![Book logo](/overallcoff.png)
+  * Of the total loan applicant nearly 14.3% of them found to be defaulting
+  * Debit consolidation loan constitutes major volume of loan and as well as major % defaulters (>49%)
+![Book logo](/overallcoff.PNG)
 
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
