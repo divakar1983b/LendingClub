@@ -30,9 +30,7 @@ All the loans processed fall into the following category.
 
 ## FINDINGS
 - Overall Defaulter %
-
-
-![Book logo](/loanstatus.png)
+![Book logo](/overallcoff.png)
 
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
