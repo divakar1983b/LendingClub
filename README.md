@@ -1,17 +1,23 @@
 # LENDING CLUB CASE STUDY
-> Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
+> Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
+> When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+* If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+* If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+* If one can identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
+* Identification of such applicant’s using EDA is the aim of this case study.
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [OBJECTIVE](#OBJECTIVE)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
+## OBJECTIVE
+- Identify the driving factors (or driver variables) behind loan default
+.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
