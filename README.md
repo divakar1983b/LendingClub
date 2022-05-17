@@ -10,7 +10,7 @@
 
 ## Table of Contents
 * [OBJECTIVE](#OBJECTIVE)
-* [LOAN DATASET](#LOAN DATASET)
+* [LOAN_DATASET](#LOAN_DATASET)
 * [FINDINGS](#FINDINGS)
 * [Acknowledgements](#acknowledgements)
 
@@ -19,7 +19,10 @@
 ## OBJECTIVE
 - Identify the driving factors (or driver variables) behind loan default.
 
-## LOAN DATASET
+## LOAN_DATASET
+
+![Book logo](/loanstatus.png)
+
 All the loans processed fall into the following category.
 - Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
 - Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
