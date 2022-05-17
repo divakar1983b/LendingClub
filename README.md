@@ -45,7 +45,7 @@ All the loans processed fall into the following category.
 - Loan Defaulting Factor
   * One of the major factor inflencing loan defaults is lesser Net Cash per Month(NCM) availablity with loan applicant to repay the loan compared to "Fully Paid" loan applicant.
   * Net Cash per Month(NCM) is calcualted by, NCM= (monthly_inc-installment-dti (times) monthly_inc/100)*100/monthly_inc
-![Book logo](/loanpur.PNG)
+![Book logo](/ncmcredjun.PNG)
 
 <!-- Optional -->
 <!-- ## License -->
