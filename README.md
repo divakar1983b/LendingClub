@@ -9,22 +9,15 @@
 
 ## Table of Contents
 * [OBJECTIVE](#OBJECTIVE)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [FINDINGS](#FINDINGS)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## OBJECTIVE
-- Identify the driving factors (or driver variables) behind loan default
-.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Identify the driving factors (or driver variables) behind loan default.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
+## FINDINGS
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
