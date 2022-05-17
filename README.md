@@ -5,10 +5,12 @@
 * If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 * If one can identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
 * Identification of such applicant’s using EDA is the aim of this case study.
-
+* 
+![Book logo](/lc1.png)
 
 ## Table of Contents
 * [OBJECTIVE](#OBJECTIVE)
+* [LOAN DATASET](#LOAN DATASET)
 * [FINDINGS](#FINDINGS)
 * [Acknowledgements](#acknowledgements)
 
@@ -16,6 +18,14 @@
 
 ## OBJECTIVE
 - Identify the driving factors (or driver variables) behind loan default.
+
+## LOAN DATASET
+All the loans processed fall into the following category.
+- Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
+- Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
+- Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan 
+
+
 
 ## FINDINGS
 - Conclusion 1 from the analysis
